@@ -42,7 +42,7 @@ It solves this by offering a comprehensive online platform that connects learner
 - Interactive and Responsive website
 - User-Friendly Interface
 - With affordable price
-- Has collection of many webpages such as Home, About us, Service, ChatBot etc.
+- Has collection of many webpages such as Home, About us, Courses, ChatBot etc.
 # Tech Stack
 
 - Azure (Hosting)
