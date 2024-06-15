@@ -5,7 +5,7 @@
 
 - Project Link(Azure) - https://jolly-stone-026c63d0f.5.azurestaticapps.net
 - Project Link(github) - https://vibhas01.github.io/Microsoft-FRT-Final-Project/
-- Project Demo Video Link -
+- Project Demo Video Link - https://vibhas01.github.io/Microsoft-FRT-Final-Project/
 
 # About Project
 EduSphere is an online learning platform designed to act as bridge between learners and educators, providing access to a wide range of courses and resources. 
